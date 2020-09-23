@@ -1,0 +1,13 @@
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\bin\Debug\netcoreapp3.1\zoo_management_system.exe
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\bin\Debug\netcoreapp3.1\zoo_management_system.deps.json
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\bin\Debug\netcoreapp3.1\zoo_management_system.runtimeconfig.json
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\bin\Debug\netcoreapp3.1\zoo_management_system.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\bin\Debug\netcoreapp3.1\zoo_management_system.dll
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\bin\Debug\netcoreapp3.1\zoo_management_system.pdb
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\obj\Debug\netcoreapp3.1\zoo_management_system.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\obj\Debug\netcoreapp3.1\zoo_management_system.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\obj\Debug\netcoreapp3.1\zoo_management_system.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\obj\Debug\netcoreapp3.1\zoo_management_system.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\obj\Debug\netcoreapp3.1\zoo_management_system.dll
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\obj\Debug\netcoreapp3.1\zoo_management_system.pdb
+C:\Users\Admin\Source\Repos\zoo_management_system\zoo_management_system\obj\Debug\netcoreapp3.1\zoo_management_system.genruntimeconfig.cache
